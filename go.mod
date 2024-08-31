@@ -1,4 +1,4 @@
-module zapsls
+module github.com/openpkgs/zapsls
 
 go 1.22
 
